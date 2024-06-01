@@ -1,5 +1,3 @@
-# pwnagotchi-plugins
-
 [![License](https://img.shields.io/badge/License-GPL3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 [![GitHub issues](https://img.shields.io/github/issues/levvvy/pwnagotchi-plugins)](https://github.com/levvvy/pwnagotchi-plugins/issues)
 [![GitHub stars](https://img.shields.io/github/stars/levvvy/pwnagotchi-plugins)](https://github.com/levvvy/pwnagotchi-plugins/stargazers)
