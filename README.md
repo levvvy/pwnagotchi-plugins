@@ -26,13 +26,8 @@ For installation instructions and usage details, refer to the [WlanSwitcher docu
 
 ## Future Development
 
-We are actively developing more plugins to extend the capabilities of your Pwnagotchi. Stay tuned for exciting updates and new releases!
+I'am actively developing more plugins to extend the capabilities of your Pwnagotchi. Stay tuned for exciting updates and new releases!
 
-### Upcoming Plugins
-
-- **GPS Tracker**: Logs GPS coordinates when handshakes are captured.
-- **Session Stats**: Displays detailed session statistics.
-- **Online Hash Crack**: Automatically uploads handshakes to onlinehashcrack.com.
 
 ## Contributing
 
